@@ -1,7 +1,7 @@
 //Deploy Application with ECR Private repository
 isECR = true
 image_repository_type = "ECR"
-image_identifier      = "609906240783.dkr.ecr.us-east-2.amazonaws.com/nginx-web:latest"
+image_identifier      = "XXXXX.dkr.ecr.us-east-2.amazonaws.com/nginx-web:latest"
 port                  = "80"
 
 //Deploy Application with ECR Public repository
